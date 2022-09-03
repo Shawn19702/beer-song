@@ -15,8 +15,7 @@ public class beersong
 
             System.out.println(beernum + " " + word + "of beer on the wall");
             System.out.println(beernum + " " + word + "of beer.");
-            System.out.println("Take one down.");
-            System.out.println("pass it around.");
+            System.out.println("Take one down, pass it around.");
             beernum = beernum-1;
 
         }
